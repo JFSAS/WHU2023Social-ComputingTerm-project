@@ -1,0 +1,2 @@
+sentiment rate = 0.9
+positive keyword:剧情  女主  不错  优秀  很棒  negative keyword:剧情  电影院  特效  生硬  无聊  

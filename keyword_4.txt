@@ -1,0 +1,2 @@
+sentiment rate= 0.5 
+positive keyword:剧情  电影院  特效  无聊  成功  negative keyword:剧情  电影院  无聊  不错  清楚  
